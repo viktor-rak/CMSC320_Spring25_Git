@@ -16,4 +16,8 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging resolves conflicts all at once, but rebasing
 moves your feature branch to the top of main and you rewrite the project
 history.
-             
+
+Q4: What are you looing forwar dto this semester?
+
+Answer: I am looking forward to CMSC320 because I am interested in 
+learning about Python libraries for data manipulation.
