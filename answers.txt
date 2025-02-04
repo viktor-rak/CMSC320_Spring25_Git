@@ -16,3 +16,4 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging resolves conflicts all at once, but rebasing
 moves your feature branch to the top of main and you rewrite the project
 history.
+             
