@@ -10,3 +10,9 @@ Answer: Data science can be applied to transportation.
 There is a wide range of data that it can apply to. For example,
 one might collect data on rush hour traffic during the day to
 figure out ways to reduce congestion.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging resolves conflicts all at once, but rebasing
+moves your feature branch to the top of main and you rewrite the project
+history.
